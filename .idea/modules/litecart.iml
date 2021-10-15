@@ -3,8 +3,8 @@
   <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../../litecart" rootProjectPath="$MODULE_DIR$/../../litecart" />
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../java-example" />
-    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
+    <content url="file://$MODULE_DIR$/../../litecart" />
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

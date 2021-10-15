@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="ru.stqa.java-example.main" target="1.8" />
       <module name="ru.stqa.java-example.test" target="1.8" />
+      <module name="ru.stqa.litecart.main" target="1.8" />
+      <module name="ru.stqa.litecart.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
