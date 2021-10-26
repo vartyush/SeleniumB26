@@ -26,7 +26,7 @@ public class Task7 {
 
 
     @Test
-    public void myFirstTest() throws InterruptedException {
+    public void task7Test() throws InterruptedException {
         driver.get("http://localhost:8080/litecart/admin");
         wait.until(presenceOfElementLocated(By.name("username"))).sendKeys("admin");
         driver.findElement(By.name("password")).sendKeys("admin");
