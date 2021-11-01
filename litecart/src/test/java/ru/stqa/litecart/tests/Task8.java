@@ -1,6 +1,7 @@
 package ru.stqa.litecart.tests;
 
 import org.junit.After;
+import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.By;
@@ -29,10 +30,9 @@ public class Task8 {
     @Test
     public void task8Test() throws InterruptedException {
         driver.get("http://localhost:8080/litecart");
-        List<WebElement> produkts = wait.until(presenceOfAllElementsLocatedBy(By.xpath("//article[contains(@class,\"product\")]")));
-
+        List<WebElement> produkts = wait.until(presenceOfAllElementsLocatedBy(By.xpath("//li[contains(@class,\"product\")]")));
         for (WebElement duck : produkts) {
-            duck.findElement(By.xpath("//div[contains(@class,\"sticker\")]"));
+            Assert.assertTrue(duck.findElements(By.xpath("//div[contains(@class,\"sticker\")]")).size()==1);
         }
     }
 

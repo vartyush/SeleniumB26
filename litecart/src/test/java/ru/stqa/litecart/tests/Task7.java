@@ -31,15 +31,15 @@ public class Task7 {
         wait.until(presenceOfElementLocated(By.name("username"))).sendKeys("admin");
         driver.findElement(By.name("password")).sendKeys("admin");
         driver.findElement(By.xpath("//button[@name='login']")).click();
-       List <WebElement> app= wait.until(presenceOfAllElementsLocatedBy(By.xpath("//li[contains(@class,'app')]")));
+       List <WebElement> app= wait.until(presenceOfAllElementsLocatedBy(By.xpath("//li[contains(@id,'app')]")));
         int size = app.size();
         for (int i=1; i<=size; i++) {
-           driver.findElement(By.xpath("(//li[contains(@class,'app')])"+"["+i+"]")).click();
+           driver.findElement(By.xpath("(//li[contains(@id,'app')])"+"["+i+"]")).click();
             driver.findElement(By.tagName("head"));
-            int subSize = driver.findElements(By.xpath("//li[contains(@class,'doc')]")).size();
+            int subSize = driver.findElements(By.xpath("//li[contains(@id,'doc')]")).size();
             if (subSize > 0) {
                 for (int j=1; j<=subSize; j++) {
-                    driver.findElement(By.xpath("(//li[contains(@class,'doc')])"+"["+j+"]")).click();
+                    driver.findElement(By.xpath("(//li[contains(@id,'doc')])"+"["+j+"]")).click();
                     driver.findElement(By.tagName("head"));
 
                 }
