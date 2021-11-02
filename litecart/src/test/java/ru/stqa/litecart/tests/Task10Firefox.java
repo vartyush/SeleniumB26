@@ -1,4 +1,4 @@
-package ru.stqa.training.selenium;
+package ru.stqa.litecart.tests;
 
 import org.junit.After;
 import org.junit.Assert;
@@ -7,31 +7,27 @@ import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.ie.InternetExplorerDriver;
-import org.openqa.selenium.remote.DesiredCapabilities;
+import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.Color;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import static org.junit.Assert.assertEquals;
 import static org.openqa.selenium.support.ui.ExpectedConditions.presenceOfElementLocated;
 
-public class Task10IE {
+public class Task10Firefox {
 
     public WebDriver driver;
     public WebDriverWait wait;
 
     @Before
     public void start() {
-       // DesiredCapabilities caps = new DesiredCapabilities();
-      //   caps.setCapability(InternetExplorerDriver.REQUIRE_WINDOW_FOCUS, true);
-       // caps.setCapability(InternetExplorerDriver.IGNORE_ZOOM_SETTING, true);
-        driver = new InternetExplorerDriver();
-        wait = new WebDriverWait(driver, 10);
+        //  DesiredCapabilities caps = new DesiredCapabilities();
+        //   caps.setCapability(FirefoxDriver.MARIONETTE, true);
+        driver = new FirefoxDriver();
+
+        wait = new WebDriverWait(driver, 15);
 
     }
-
-
     @Test
     public void task10Test() throws InterruptedException {
         driver.get("http://localhost:8080/litecart/en/");
@@ -58,7 +54,7 @@ public class Task10IE {
         int blueCam = Color.fromString(rgbFormatCam).getColor().getBlue();
         Assert.assertTrue(greenCam == 0 && blueCam == 0);
         //г) акционная жирная
-        Assert.assertEquals("700", campaignPriceElem.getCssValue("font-weight"));
+        Assert.assertEquals("900", campaignPriceElem.getCssValue("font-weight"));
 
         // д) акционная цена крупнее, чем обычная
         String sizeReg = (regularPriceElem.getCssValue("font-size"));
