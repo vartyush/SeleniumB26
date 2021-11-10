@@ -3,16 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="eba73f02-79ce-456b-a363-1606d44819c4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-example/out/test/classes/ru/stqa/training/selenium/Firefox.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-example/out/test/classes/ru/stqa/training/selenium/IExplorerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-example/out/test/classes/ru/stqa/training/selenium/MyFirstTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-example/out/test/classes/ru/stqa/training/selenium/Task10IE.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-example/out/test/classes/ru/stqa/training/selenium/Task10IE.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-example/out/test/classes/ru/stqa/training/selenium/Task7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-example/out/test/classes/ru/stqa/training/selenium/Task8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Task10Firefox.java" beforeDir="false" afterPath="$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task10Firefox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Task10IE.java" beforeDir="false" afterPath="$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task10IE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/litecart/out/test/classes/ru/stqa/litecart/tests/Task10.class" beforeDir="false" afterPath="$PROJECT_DIR$/litecart/out/test/classes/ru/stqa/litecart/tests/Task10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/litecart/out/test/classes/ru/stqa/litecart/tests/Task8.class" beforeDir="false" afterPath="$PROJECT_DIR$/litecart/out/test/classes/ru/stqa/litecart/tests/Task8.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/java-example/.gradle/" />
     <ignored path="$PROJECT_DIR$/java-example/build/" />
@@ -54,71 +44,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/IExplorerTest.java">
+        <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task11.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="33" column="41" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="41" />
+            <state relative-caret-position="619">
+              <caret line="56" column="1" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task9.java">
+        <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task12.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="47" column="39" selection-start-line="47" selection-start-column="39" selection-end-line="47" selection-end-column="39" />
+            <state relative-caret-position="412">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task10.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="36" column="39" selection-start-line="36" selection-end-line="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/4.0.0-rc-3/9f6149c06b51fbd96631a46d25c5af0a0b105138/selenium-api-4.0.0-rc-3-sources.jar!/org/openqa/selenium/By.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="969">
-              <caret line="88" selection-start-line="88" selection-end-line="88" />
-              <folding>
-                <element signature="e#2539#2540#0" expanded="true" />
-                <element signature="e#2572#2573#0" expanded="true" />
-                <element signature="e#2980#2981#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task10Firefox.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="104" selection-start-line="104" selection-end-line="104" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/model/FrameworkMethod.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
-              <caret line="49" selection-start-line="49" selection-end-line="49" />
-              <folding>
-                <element signature="e#1657#1658#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -127,8 +70,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task10IE.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-67">
-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            <state relative-caret-position="391">
+              <caret line="37" column="82" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="82" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -137,22 +80,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Firefox.java">
+        <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task13.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="26" column="5" selection-start-line="15" selection-start-column="3" selection-end-line="26" selection-end-column="5" />
+            <state relative-caret-position="357">
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#3214#3215#0" expanded="true" />
+                <element signature="e#3276#3277#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -165,6 +101,63 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task7.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task10.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="35" column="57" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/LoginTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task9.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="58" column="43" selection-start-line="58" selection-start-column="43" selection-end-line="58" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="41" selection-start-column="41" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -206,14 +199,23 @@
         <option value="$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task8.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Task10IE.java" />
         <option value="$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task10IE.java" />
+        <option value="$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task12.java" />
+        <option value="$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task13.java" />
+        <option value="$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task11.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="1911" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1168" />
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1801" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -242,30 +244,6 @@
             <path>
               <item name="SeleniumB26" type="b2602c69:ProjectViewProjectNode" />
               <item name="SeleniumB26" type="462c0819:PsiDirectoryNode" />
-              <item name="java-example" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SeleniumB26" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumB26" type="462c0819:PsiDirectoryNode" />
-              <item name="java-example" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SeleniumB26" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumB26" type="462c0819:PsiDirectoryNode" />
-              <item name="java-example" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="selenium" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SeleniumB26" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumB26" type="462c0819:PsiDirectoryNode" />
               <item name="litecart" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -273,13 +251,6 @@
               <item name="SeleniumB26" type="462c0819:PsiDirectoryNode" />
               <item name="litecart" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SeleniumB26" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumB26" type="462c0819:PsiDirectoryNode" />
-              <item name="litecart" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SeleniumB26" type="b2602c69:ProjectViewProjectNode" />
@@ -318,7 +289,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JavaB22" />
+    <property name="last_opened_file_path" value="C:/SDSB_automation/AW/test-automation-framework" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -341,52 +312,52 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Task10Firefox.task10Test">
-    <configuration name="Firefox.myFirstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-example.ru.stqa.java-example.test" />
-      <option name="PACKAGE_NAME" value="ru.stqa.training.selenium" />
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.training.selenium.Firefox" />
-      <option name="METHOD_NAME" value="myFirstTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task10Firefox.task10Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Task12.task12Test">
+    <configuration name="Task11.task11Test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="litecart.ru.stqa.litecart.test" />
       <option name="PACKAGE_NAME" value="ru.stqa.litecart.tests" />
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.litecart.tests.Task10Firefox" />
-      <option name="METHOD_NAME" value="task10Test" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.litecart.tests.Task11" />
+      <option name="METHOD_NAME" value="task11Test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task10IE.task10Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="litecart.ru.stqa.litecart.test" />
-      <option name="PACKAGE_NAME" value="ru.stqa.litecart.tests" />
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.litecart.tests.Task10IE" />
-      <option name="METHOD_NAME" value="task10Test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task10IE.task10Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="litecart.ru.stqa.litecart.test" />
-      <option name="PACKAGE_NAME" value="ru.stqa.litecart.tests" />
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.litecart.tests.Task10IE" />
-      <option name="METHOD_NAME" value="task10Test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task8.task8Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Task11.task11Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ru.stqa.litecart.test" />
       <option name="PACKAGE_NAME" value="ru.stqa.litecart.tests" />
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.litecart.tests.Task8" />
-      <option name="METHOD_NAME" value="task8Test" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.litecart.tests.Task11" />
+      <option name="METHOD_NAME" value="task11Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task12.task12Test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ru.stqa.litecart.test" />
+      <option name="PACKAGE_NAME" value="ru.stqa.litecart.tests" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.litecart.tests.Task12" />
+      <option name="METHOD_NAME" value="task12Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task12.task12Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="litecart.ru.stqa.litecart.test" />
+      <option name="PACKAGE_NAME" value="ru.stqa.litecart.tests" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.litecart.tests.Task12" />
+      <option name="METHOD_NAME" value="task12Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task13.task13Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="litecart.ru.stqa.litecart.test" />
+      <option name="PACKAGE_NAME" value="ru.stqa.litecart.tests" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.litecart.tests.Task13" />
+      <option name="METHOD_NAME" value="task13Test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -394,11 +365,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Task10Firefox.task10Test" />
-        <item itemvalue="JUnit.Task10IE.task10Test" />
-        <item itemvalue="JUnit.Task10IE.task10Test (1)" />
-        <item itemvalue="JUnit.Task8.task8Test" />
-        <item itemvalue="JUnit.Firefox.myFirstTest" />
+        <item itemvalue="JUnit.Task12.task12Test" />
+        <item itemvalue="JUnit.Task11.task11Test (1)" />
+        <item itemvalue="JUnit.Task11.task11Test" />
+        <item itemvalue="JUnit.Task13.task13Test" />
+        <item itemvalue="JUnit.Task12.task12Test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -416,50 +387,75 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Task10IE_task10Test - 2021.11.01 at 14h 39m 07s.xml">
-      <configuration name="Task10IE.task10Test" configurationId="JUnit" />
+    <history-entry file="Task13_task13Test - 2021.11.10 at 00h 02m 01s.xml">
+      <configuration name="Task13.task13Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Task10IE_task10Test - 2021.11.01 at 14h 42m 59s.xml">
-      <configuration name="Task10IE.task10Test" configurationId="JUnit" />
+    <history-entry file="Task13_task13Test - 2021.11.10 at 00h 02m 45s.xml">
+      <configuration name="Task13.task13Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Task10IE_task10Test - 2021.11.01 at 14h 46m 02s.xml">
-      <configuration name="Task10IE.task10Test" configurationId="JUnit" />
+    <history-entry file="Task13_task13Test - 2021.11.10 at 00h 04m 56s.xml">
+      <configuration name="Task13.task13Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Task10IE_task10Test - 2021.11.01 at 14h 48m 54s.xml">
-      <configuration name="Task10IE.task10Test" configurationId="JUnit" />
+    <history-entry file="Task13_task13Test - 2021.11.10 at 00h 19m 16s.xml">
+      <configuration name="Task13.task13Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Task10IE_task10Test_(1) - 2021.11.02 at 11h 22m 34s.xml">
-      <configuration name="Task10IE.task10Test (1)" configurationId="JUnit" />
+    <history-entry file="Task13_task13Test - 2021.11.10 at 00h 20m 55s.xml">
+      <configuration name="Task13.task13Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Task10IE_task10Test_(1) - 2021.11.02 at 11h 23m 30s.xml">
-      <configuration name="Task10IE.task10Test (1)" configurationId="JUnit" />
+    <history-entry file="Task13_task13Test - 2021.11.10 at 00h 21m 36s.xml">
+      <configuration name="Task13.task13Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Task10IE_task10Test - 2021.11.02 at 11h 24m 46s.xml">
-      <configuration name="Task10IE.task10Test" configurationId="JUnit" />
+    <history-entry file="Task13_task13Test - 2021.11.10 at 00h 57m 19s.xml">
+      <configuration name="Task13.task13Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Task10Firefox_task10Test - 2021.11.02 at 11h 26m 10s.xml">
-      <configuration name="Task10Firefox.task10Test" configurationId="JUnit" />
+    <history-entry file="Task13_task13Test - 2021.11.10 at 00h 58m 08s.xml">
+      <configuration name="Task13.task13Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Task10Firefox_task10Test - 2021.11.02 at 11h 27m 02s.xml">
-      <configuration name="Task10Firefox.task10Test" configurationId="JUnit" />
+    <history-entry file="Task11_task11Test_(1) - 2021.11.10 at 19h 15m 58s.xml">
+      <configuration name="Task11.task11Test (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Task10Firefox_task10Test - 2021.11.02 at 11h 28m 08s.xml">
-      <configuration name="Task10Firefox.task10Test" configurationId="JUnit" />
+    <history-entry file="Task12_task12Test - 2021.11.10 at 19h 18m 04s.xml">
+      <configuration name="Task12.task12Test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1913" y="-7" width="1550" height="934" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23221476" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18923241" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.42643392" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.46633416" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4997128" weight="0.3561786" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" visible="true" weight="0.3956386" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.3956386" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Build" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4997128" weight="0.31879544" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.23454158" />
+      <window_info anchor="right" id="Gradle" order="5" weight="0.07919463" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23288591" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4276808" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39650872" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -467,15 +463,15 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Build" order="10" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32169577" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.319202" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Gradle" order="5" visible="true" weight="0.05838926" />
+      <window_info anchor="right" id="Gradle" order="5" visible="true" weight="0.07919463" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -564,6 +560,36 @@
           <properties />
           <option name="timeStamp" value="30" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task11.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task11.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task12.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task13.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task12.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -600,16 +626,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/LoginTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/statements/InvokeMethod.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -639,77 +655,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/statements/RunAfters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task10IETest.java" />
     <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/MyFirstTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="35" column="10" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="28" column="57" selection-start-line="27" selection-start-column="3" selection-end-line="28" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/4.0.0-rc-3/9f6149c06b51fbd96631a46d25c5af0a0b105138/selenium-api-4.0.0-rc-3-sources.jar!/org/openqa/selenium/By.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="88" selection-start-line="88" selection-end-line="88" />
-          <folding>
-            <element signature="e#2539#2540#0" expanded="true" />
-            <element signature="e#2572#2573#0" expanded="true" />
-            <element signature="e#2980#2981#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="36" column="39" selection-start-line="36" selection-end-line="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Firefox.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="26" column="5" selection-start-line="15" selection-start-column="3" selection-end-line="26" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -723,19 +673,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task10IE.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/4.0.0-rc-3/9f6149c06b51fbd96631a46d25c5af0a0b105138/selenium-api-4.0.0-rc-3-sources.jar!/org/openqa/selenium/By.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-67">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        <state relative-caret-position="2771">
+          <caret line="204" column="12" selection-start-line="204" selection-start-column="12" selection-end-line="204" selection-end-column="12" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#2539#2540#0" expanded="true" />
+            <element signature="e#2572#2573#0" expanded="true" />
+            <element signature="e#2935#2936#0" expanded="true" />
+            <element signature="e#2980#2981#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task10Firefox.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
+        <state relative-caret-position="1564">
           <caret line="104" selection-start-line="104" selection-end-line="104" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -745,7 +698,7 @@
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/model/FrameworkMethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
+        <state relative-caret-position="697">
           <caret line="49" selection-start-line="49" selection-end-line="49" />
           <folding>
             <element signature="e#1657#1658#0" expanded="true" />
@@ -753,10 +706,123 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/statements/RunAfters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Firefox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="26" column="5" selection-start-line="15" selection-start-column="3" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-support/4.0.0-rc-3/c3edf8d276d8d020365d3109dd42c80ace28ad4/selenium-support-4.0.0-rc-3-sources.jar!/org/openqa/selenium/support/ui/ExpectedConditions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2329">
+          <caret line="169" column="46" selection-start-line="169" selection-start-column="46" selection-end-line="169" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="35" column="57" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/LoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task9.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="47" column="39" selection-start-line="47" selection-start-column="39" selection-end-line="47" selection-end-column="39" />
+        <state relative-caret-position="680">
+          <caret line="58" column="43" selection-start-line="58" selection-start-column="43" selection-end-line="58" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="41" selection-start-column="41" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task10IE.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="37" column="82" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="82" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3214#3215#0" expanded="true" />
+            <element signature="e#3276#3277#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="619">
+          <caret line="56" column="1" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
