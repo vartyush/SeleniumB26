@@ -45,11 +45,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task13.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="58" column="65" lean-forward="true" selection-start-line="58" selection-end-line="59" />
+            <state relative-caret-position="105">
+              <caret line="57" column="10" lean-forward="true" selection-start-line="57" selection-start-column="10" selection-end-line="68" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#3359#3360#0" expanded="true" />
@@ -59,11 +59,23 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task17.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="167">
+              <caret line="41" column="56" selection-start-line="41" selection-start-column="56" selection-end-line="41" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task11.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="935">
-              <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+            <state relative-caret-position="571">
+              <caret line="59" column="22" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -74,8 +86,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task19/pages/CartPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="197">
+              <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#138#139#0" expanded="true" />
@@ -112,6 +124,18 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task14.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="918">
+              <caret line="70" column="5" selection-start-line="66" selection-start-column="3" selection-end-line="70" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task19/pages/MainPage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="163">
@@ -126,7 +150,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task19/tests/TestBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
+            <state relative-caret-position="95">
               <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -138,38 +162,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task19/tests/AddRemoveProductTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="153">
+              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task12.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="59" selection-start-line="59" selection-end-line="59" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task19/pages/DetailedPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#109#110#0" expanded="true" />
-                <element signature="e#138#139#0" expanded="true" />
-                <element signature="e#914#915#0" expanded="true" />
-                <element signature="e#976#977#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -213,9 +209,7 @@
         <option value="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Task10IE.java" />
         <option value="$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task10IE.java" />
         <option value="$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task12.java" />
-        <option value="$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task13.java" />
         <option value="$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task14.java" />
-        <option value="$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task17.java" />
         <option value="$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task11.java" />
         <option value="$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task19/Page.java" />
         <option value="$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task19/Test.java" />
@@ -225,6 +219,9 @@
         <option value="$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task19/MainPage.java" />
         <option value="$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task19/Application.java" />
         <option value="$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task19/TestBase.java" />
+        <option value="$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task17.java" />
+        <option value="$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task19/tests/AddRemoveProductTest.java" />
+        <option value="$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task13.java" />
         <option value="$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task19/pages/CartPage.java" />
       </list>
     </option>
@@ -236,10 +233,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1801" />
-    <option name="height" value="1096" />
+    <option name="x" value="1911" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1168" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -363,12 +360,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AddRemoveProductTest.task13Test">
+  <component name="RunManager" selected="JUnit.AddRemoveProductTest.task19Test">
     <configuration name="AddRemoveProductTest.task13Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="litecart.ru.stqa.litecart.test" />
       <option name="PACKAGE_NAME" value="ru.stqa.litecart.tests.Task19.tests" />
       <option name="MAIN_CLASS_NAME" value="ru.stqa.litecart.tests.Task19.tests.AddRemoveProductTest" />
       <option name="METHOD_NAME" value="task13Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddRemoveProductTest.task19Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="litecart.ru.stqa.litecart.test" />
+      <option name="PACKAGE_NAME" value="ru.stqa.litecart.tests.Task19.tests" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.litecart.tests.Task19.tests.AddRemoveProductTest" />
+      <option name="METHOD_NAME" value="task19Test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -394,16 +401,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task14.task10Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="litecart.ru.stqa.litecart.test" />
-      <option name="PACKAGE_NAME" value="ru.stqa.litecart.tests" />
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.litecart.tests.Task14" />
-      <option name="METHOD_NAME" value="task10Test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Task17.task13Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="litecart.ru.stqa.litecart.test" />
       <option name="PACKAGE_NAME" value="ru.stqa.litecart.tests" />
@@ -416,11 +413,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AddRemoveProductTest.task13Test" />
+        <item itemvalue="JUnit.AddRemoveProductTest.task19Test" />
         <item itemvalue="JUnit.Task13.task13Test" />
+        <item itemvalue="JUnit.AddRemoveProductTest.task13Test" />
         <item itemvalue="JUnit.Task17.task13Test" />
         <item itemvalue="JUnit.Task11.task11Test (1)" />
-        <item itemvalue="JUnit.Task14.task10Test" />
       </list>
     </recent_temporary>
   </component>
@@ -453,24 +450,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AddRemoveProductTest_task13Test - 2021.11.17 at 00h 07m 14s.xml">
-      <configuration name="AddRemoveProductTest.task13Test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AddRemoveProductTest_task13Test - 2021.11.17 at 00h 09m 39s.xml">
-      <configuration name="AddRemoveProductTest.task13Test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AddRemoveProductTest_task13Test - 2021.11.17 at 00h 15m 46s.xml">
-      <configuration name="AddRemoveProductTest.task13Test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AddRemoveProductTest_task13Test - 2021.11.17 at 00h 22m 48s.xml">
-      <configuration name="AddRemoveProductTest.task13Test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AddRemoveProductTest_task13Test - 2021.11.17 at 00h 25m 29s.xml">
-      <configuration name="AddRemoveProductTest.task13Test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AddRemoveProductTest_task13Test - 2021.11.17 at 00h 27m 51s.xml">
-      <configuration name="AddRemoveProductTest.task13Test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="AddRemoveProductTest_task13Test - 2021.11.17 at 00h 30m 47s.xml">
       <configuration name="AddRemoveProductTest.task13Test" configurationId="JUnit" />
     </history-entry>
@@ -483,32 +462,51 @@
     <history-entry file="AddRemoveProductTest_task13Test - 2021.11.17 at 00h 39m 19s.xml">
       <configuration name="AddRemoveProductTest.task13Test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="AddRemoveProductTest_task13Test - 2021.11.17 at 12h 31m 55s.xml">
+      <configuration name="AddRemoveProductTest.task13Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AddRemoveProductTest_task19Test - 2021.11.17 at 12h 38m 55s.xml">
+      <configuration name="AddRemoveProductTest.task19Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Task13_task13Test - 2021.11.17 at 14h 01m 12s.xml">
+      <configuration name="Task13.task13Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Task13_task13Test - 2021.11.17 at 14h 02m 08s.xml">
+      <configuration name="Task13.task13Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Task13_task13Test - 2021.11.18 at 00h 10m 49s.xml">
+      <configuration name="Task13.task13Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AddRemoveProductTest_task19Test - 2021.11.18 at 00h 13m 15s.xml">
+      <configuration name="AddRemoveProductTest.task19Test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1801" height="1096" extended-state="6" />
+    <frame x="1913" y="-7" width="1550" height="934" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24238943" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28322148" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.7926479" visible="true" weight="0.44132918" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7899329" visible="true" weight="0.48254365" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.89201605" weight="0.33021808" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.2073521" side_tool="true" visible="true" weight="0.44132918" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.21006711" side_tool="true" visible="true" weight="0.48254365" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Build" order="10" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.46927053" weight="0.3136033" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4671141" weight="0.3117207" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.032739803" />
+      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.038255032" />
       <window_info anchor="right" id="Gradle" order="5" weight="0.07919463" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
     </layout>
@@ -868,16 +866,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task14.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="70" column="5" selection-start-line="66" selection-start-column="3" selection-end-line="70" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -889,16 +877,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="35" column="9" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task17.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="46" column="43" selection-start-line="46" selection-start-column="43" selection-end-line="46" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -939,20 +917,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task19/pages/CartPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#167#168#0" expanded="true" />
-            <element signature="e#1523#1524#0" expanded="true" />
-            <element signature="e#1585#1586#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task19/pages/Page.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -963,9 +927,65 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="571">
+          <caret line="59" column="22" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="70" column="5" selection-start-line="66" selection-start-column="3" selection-end-line="70" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="57" column="10" lean-forward="true" selection-start-line="57" selection-start-column="10" selection-end-line="68" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3359#3360#0" expanded="true" />
+            <element signature="e#3421#3422#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task19/pages/CartPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#1523#1524#0" expanded="true" />
+            <element signature="e#1585#1586#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task19/tests/AddRemoveProductTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task19/tests/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
+        <state relative-caret-position="95">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -983,34 +1003,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task19/tests/AddRemoveProductTest.java">
+    <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task17.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="167">
+          <caret line="41" column="56" selection-start-line="41" selection-start-column="56" selection-end-line="41" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
-          <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="58" column="65" lean-forward="true" selection-start-line="58" selection-end-line="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3359#3360#0" expanded="true" />
-            <element signature="e#3421#3422#0" expanded="true" />
           </folding>
         </state>
       </provider>

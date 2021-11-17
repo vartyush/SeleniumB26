@@ -56,15 +56,15 @@ public class Task13 {
         List<WebElement> listForRemoveProducts = wait.until(presenceOfAllElementsLocatedBy(By.xpath("//a[contains(@class,'inact')]")));
         for (int i = 1; i <= listForRemoveProducts.size(); i++) {
             if (isElementPresent(driver, By.xpath("//a[contains(@class,'act')]"))) {
-                driver.findElement(By.xpath("//a[contains(@class,'act')]")).click();
-                wait.until(presenceOfElementLocated(By.xpath("//div[@class='billing-address']")));
+                driver.findElement(By.xpath("//li[@class='shortcut']")).click();
+                WebElement address = wait.until(presenceOfElementLocated(By.xpath("//div[@class='billing-address']")));
                 wait.until(elementToBeClickable(By.xpath("(//button[@name='remove_cart_item'])[1]"))).click();
-                wait.until(stalenessOf(driver.findElement(By.xpath("//div[@class='billing-address']"))));
+                wait.until(stalenessOf(address));
                 driver.findElement(By.xpath("//div[@class='billing-address']"));
             } else {
-                wait.until(presenceOfElementLocated(By.xpath("//div[@class='billing-address']")));
+                WebElement address =wait.until(presenceOfElementLocated(By.xpath("//div[@class='billing-address']")));
                 wait.until(elementToBeClickable(By.xpath("(//button[@name='remove_cart_item'])[1]"))).click();
-                wait.until(stalenessOf(driver.findElement(By.xpath("//div[@class='billing-address']"))));
+                wait.until(stalenessOf(address));
 
             }
         }

@@ -7,7 +7,7 @@ public class AddRemoveProductTest extends TestBase {
 
 
     @Test
-    public void task13Test() throws InterruptedException {
+    public void task19Test() throws InterruptedException {
         app.mainPage.open();
         for (int i = 1; i <= 3; i++) {
             app.mainPage.findProductByIndex(i).click();
