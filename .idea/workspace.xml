@@ -5,7 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/litecart/out/test/classes/ru/stqa/litecart/tests/Task11.class" beforeDir="false" afterPath="$PROJECT_DIR$/litecart/out/test/classes/ru/stqa/litecart/tests/Task11.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/litecart/out/test/classes/ru/stqa/litecart/tests/Task13.class" beforeDir="false" afterPath="$PROJECT_DIR$/litecart/out/test/classes/ru/stqa/litecart/tests/Task13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task11.java" beforeDir="false" afterPath="$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task11.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/java-example/.gradle/" />
     <ignored path="$PROJECT_DIR$/java-example/build/" />
@@ -46,11 +45,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task13.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="28" selection-end-column="5" />
+            <state relative-caret-position="252">
+              <caret line="58" column="65" lean-forward="true" selection-start-line="58" selection-end-line="59" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#3359#3360#0" expanded="true" />
@@ -60,7 +59,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task11.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="935">
@@ -443,7 +442,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636561142950</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Task11 update">
+      <created>1637135110446</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1637135110447</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -480,16 +486,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1801" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24238943" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24238943" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7926479" visible="true" weight="0.44132918" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.7926479" visible="true" weight="0.44132918" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.89201605" weight="0.33021808" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -536,7 +541,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task11" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task11" />
+    <MESSAGE value="Task11 update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task11 update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -909,18 +915,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="28" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3359#3360#0" expanded="true" />
-            <element signature="e#3421#3422#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task19/pages/DetailedPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="163">
@@ -1005,6 +999,18 @@
           <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/litecart/tests/Task13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="58" column="65" lean-forward="true" selection-start-line="58" selection-end-line="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3359#3360#0" expanded="true" />
+            <element signature="e#3421#3422#0" expanded="true" />
           </folding>
         </state>
       </provider>
