@@ -6,6 +6,7 @@ import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
@@ -18,8 +19,12 @@ public class Task11 {
     @Before
     public void start() {
         driver = new ChromeDriver();
-        wait = new WebDriverWait(driver, 10);
+       wait = new WebDriverWait(driver, 10);
 
+
+      //  driver = new FirefoxDriver();
+
+      //  wait = new WebDriverWait(driver, 15);
     }
 
 
@@ -36,7 +41,8 @@ public class Task11 {
         driver.findElement(By.xpath("//input[@name='postcode']")).sendKeys("12345");
         driver.findElement(By.xpath("//input[@name='city']")).sendKeys("Saint-Peterburg");
         driver.findElement(By.xpath("//input[@name='email']")).sendKeys(email);
-       new Select(driver.findElement(By.xpath("//select[@name='country_code']"))).selectByVisibleText("United States");
+        driver.findElement(By.xpath("//span[contains(@class,'select2-container')]")).click();
+        driver.findElement(By.xpath("//li[contains(text(),'United States')]")).click();
         driver.findElement(By.xpath("//input[@name='password']")).clear();
         driver.findElement(By.xpath("//input[@name='password']")).sendKeys("12345");
         driver.findElement(By.xpath("//input[@name='confirmed_password']")).sendKeys("12345");
